@@ -33,6 +33,8 @@ pip install jupyter
 
 ### Session 1: The System Prompt
 
+A **system prompt** (also called a *developer message* or *system instruction*) is the instruction set you give an LLM before the conversation starts. It tells the model who it is, how to behave, what format to use, and what to refuse. Every LLM interaction has one — when you use ChatGPT or Claude without setting one, you're running on their built-in default. Writing your own is how you take control.
+
 **Skill:** Write a system prompt that constrains the model's behavior, output format, and domain expertise. Stop relying on the model to guess what you want.
 
 **Build:** Create a file `system-prompts/network-troubleshooter.md` with a system prompt that turns an LLM into a senior network engineer. Include:
@@ -48,9 +50,7 @@ Test it in ChatGPT, Claude, or Copilot Chat. Compare the quality of response wit
 | Build | `system-prompts/network-troubleshooter.md` |
 | Test | Same network problem with and without system prompt — screenshot both |
 
-> 📖 **Read:** [Anthropic — Give Claude a Role](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/give-claude-a-role) — how to define persona, expertise, and constraints — exactly what you're building
->
-> 📖 **Read:** [Prompt Engineering Guide — General Tips for Designing Prompts](https://www.promptingguide.ai/introduction/tips) — concise list of do's and don'ts, model-agnostic
+> 📖 **Read:** [OpenAI — Message Roles and Instruction Following](https://developers.openai.com/api/docs/guides/text#message-roles-and-instruction-following) — the three message roles (developer, user, assistant), why system prompts take priority, and a useful mental model: system prompt = function definition, user message = arguments
 
 ---
 
@@ -194,7 +194,7 @@ Test it with:
 
 > 📖 **Read:** [Prompt Engineering Guide — LLM Settings](https://www.promptingguide.ai/introduction/settings) — temperature, top-p, max tokens explained
 >
-> 📖 **Read:** [Cohere — Temperature](https://docs.cohere.com/docs/temperature) — another good explainer with visual intuition
+> 📖 **Read:** [Hugging Face — How to Generate Text](https://huggingface.co/blog/how-to-generate) — visual explainer of greedy search, beam search, sampling, temperature, top-k, and top-p with diagrams and code
 
 ---
 
