@@ -8,11 +8,13 @@
 
 ---
 
-## Before You Start Block 5
+## Before You Start Block 3
 
-- 📺 [DeepLearning.AI — Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt-api/) — free, ~1 hour
-- 📖 [Google AI Studio — Quickstart](https://ai.google.dev/gemini-api/docs/quickstart) — set up your free Gemini API access
-- 📖 [OpenAI — API Quickstart](https://platform.openai.com/docs/quickstart) — if using OpenAI credits
+Get your API key first, then skim the docs — 15 minutes + the course if you want it:
+
+- 📖 [Google AI Studio — Quickstart](https://ai.google.dev/gemini-api/docs/quickstart) — set up your free Gemini API key (recommended, most generous free tier)
+- 📖 [OpenAI — API Quickstart](https://platform.openai.com/docs/quickstart) — alternative if you prefer OpenAI
+- 📺 [DeepLearning.AI — Building Systems with the ChatGPT API](https://www.deeplearning.ai/short-courses/building-systems-with-chatgpt-api/) — free, ~1 hour, good warm-up but optional if you're eager to just build
 
 **Setup:**
 ```bash

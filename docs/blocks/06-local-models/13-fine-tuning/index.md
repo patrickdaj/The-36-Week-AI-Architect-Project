@@ -10,9 +10,11 @@
 
 ## Before You Start Block 13
 
-- 📺 [DeepLearning.AI — Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) — free, ~1 hour
-- 📖 [Hugging Face NLP Course — Chapter 1-3](https://huggingface.co/learn/nlp-course) — transformers, tokenizers, fine-tuning basics
-- 📖 [Unsloth Documentation](https://docs.unsloth.ai/) — fast, efficient fine-tuning
+~1 hour of video + skim the docs:
+
+- 📺 [DeepLearning.AI — Finetuning Large Language Models](https://www.deeplearning.ai/short-courses/finetuning-large-language-models/) — free, ~1 hour, covers when to fine-tune vs. prompt vs. RAG
+- 📖 [Hugging Face — Fine-tune a pretrained model](https://huggingface.co/docs/transformers/training) — single focused page, the mechanics of fine-tuning with Transformers
+- 📖 [Unsloth Documentation](https://docs.unsloth.ai/) — skim the quickstart, you'll use this for QLoRA training
 
 **Setup:** You'll need a GPU. Options:
 - **Google Colab** (free tier T4 GPU) — recommended

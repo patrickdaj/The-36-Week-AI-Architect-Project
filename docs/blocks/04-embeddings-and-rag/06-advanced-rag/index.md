@@ -10,8 +10,10 @@
 
 ## Before You Start Block 6
 
-- 📺 [DeepLearning.AI — Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) — free, ~1 hour
-- 📖 [LangChain — Advanced RAG Techniques](https://python.langchain.com/docs/tutorials/rag/) — query transformation, reranking
+~1 hour if you do the course, 10 minutes if you just read:
+
+- 📺 [DeepLearning.AI — Building and Evaluating Advanced RAG](https://www.deeplearning.ai/short-courses/building-evaluating-advanced-rag/) — free, ~1 hour, covers the exact techniques you'll build this block (hybrid search, reranking, evaluation)
+- 📖 [LangChain — RAG Tutorial](https://python.langchain.com/docs/tutorials/rag/) — skim the "Query Analysis" and "Retrieval" sections for the patterns you'll implement
 
 ---
 

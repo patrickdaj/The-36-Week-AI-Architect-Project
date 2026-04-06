@@ -10,7 +10,9 @@
 
 ## Before You Start Block 9
 
-- 📺 [DeepLearning.AI — Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) — free, ~1 hour
+~1 hour:
+
+- 📺 [DeepLearning.AI — Multi AI Agent Systems with crewAI](https://www.deeplearning.ai/short-courses/multi-ai-agent-systems-with-crewai/) — free, ~1 hour, covers roles, tasks, and delegation — the exact patterns you'll implement
 
 **Setup:**
 ```bash

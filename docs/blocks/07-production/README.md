@@ -28,6 +28,6 @@ The OWASP Top 10 for LLM Applications will feel like coming home. Prompt injecti
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [27–28: Architecture Patterns](15-architecture-patterns/index.md) | LLM app patterns, model routing, caching, observability | 27–28 |
-| [29–30: Security & Guardrails](16-security-and-guardrails/index.md) | OWASP LLM Top 10, prompt injection defense, AI governance | 29–30 |
-| [31–32: Platform Build](17-platform-build/index.md) | 🔬 Lab — unified platform, AI gateway, Docker deployment | 31–32 |
+| [Block 15: Architecture Patterns](15-architecture-patterns/index.md) | LLM app patterns, model routing, caching, observability | 27–28 |
+| [Block 16: Security & Guardrails](16-security-and-guardrails/index.md) | OWASP LLM Top 10, prompt injection defense, AI governance | 29–30 |
+| [Block 17: Platform Build](17-platform-build/index.md) | 🔬 Lab — unified platform, AI gateway, Docker deployment | 31–32 |

@@ -10,11 +10,11 @@
 
 ## Before You Start Block 1
 
-Read these first — they'll make every session click:
+Skim these three — 30 minutes total, tops:
 
-- 📖 [Prompt Engineering Guide — Basics](https://www.promptingguide.ai/introduction) — what prompts are, how models process them, the mental model you need
-- 📖 [Anthropic — Prompt Engineering Overview](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — the best single source on structured prompting
-- 📺 [DeepLearning.AI — ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — free, ~1 hour, code-along in Jupyter
+- 📖 [Anthropic — Be Clear and Direct](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct) — 5-minute read, the single most useful prompting page on the internet. Read this one fully.
+- 📖 [OpenAI — Prompt Engineering Best Practices](https://platform.openai.com/docs/guides/prompt-engineering) — skim the six strategies list, you'll use each one this block
+- 📺 [DeepLearning.AI — ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — free, ~1 hour, code-along in Jupyter (do this one on Day 1 if you want a warm-up)
 
 **Setup for the week:** Create your project repo and virtual environment:
 ```bash

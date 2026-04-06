@@ -10,9 +10,10 @@
 
 ## Before You Start Block 19
 
-- Your capstone should be functional from Block 18
-- 📖 [How to Write a Great README](https://www.makeareadme.com/) — your project's front door
-- 📖 [Presentation Zen (summary)](https://www.garr.net/book-summary/presentation-zen-summary) — less is more
+10 minutes — your capstone should be functional from Block 18:
+
+- 📖 [Make a README](https://www.makeareadme.com/) — 5-minute read, template for your project's front door
+- 📖 [Presentation Zen (summary)](https://www.garr.net/book-summary/presentation-zen-summary) — 5-minute skim, less is more for your demo
 
 ---
 

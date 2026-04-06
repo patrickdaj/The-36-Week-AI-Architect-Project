@@ -10,9 +10,11 @@
 
 ## Before You Start Block 17
 
-- Review your work from Blocks 27–30 — you're assembling those pieces
-- 📖 [The Twelve-Factor App](https://12factor.net/) — production app principles
-- 📖 [FastAPI — Beyond the Basics](https://fastapi.tiangolo.com/tutorial/) — middleware, dependencies, testing
+20 minutes — you're assembling pieces you've already built:
+
+- Review your code from Blocks 15–16 — router, cache, guardrails, logging. You're wiring them together.
+- 📖 [The Twelve-Factor App](https://12factor.net/) — 15-minute read, 12 short pages. Production app principles that apply directly to your platform.
+- 📖 [FastAPI — Dependencies](https://fastapi.tiangolo.com/tutorial/dependencies/) — single page on dependency injection, the pattern you'll use to compose your middleware stack
 
 ---
 

@@ -10,9 +10,11 @@
 
 ## Before You Start Block 15
 
-- 📺 [DeepLearning.AI — Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) — free, ~1 hour
-- 📖 [Chip Huyen — Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html) — essential reading
-- 📖 [LiteLLM Documentation](https://docs.litellm.ai/) — 100+ providers, one interface
+30 minutes of reading + an optional course:
+
+- 📖 [Chip Huyen — Building LLM Applications for Production](https://huyenchip.com/2023/04/11/llm-engineering.html) — 15-minute read, covers every pattern you'll implement this block (routing, caching, guardrails). Read this one fully.
+- 📖 [LiteLLM — Getting Started](https://docs.litellm.ai/docs/) — 5-minute skim, one interface for 100+ model providers. You'll use this for the router.
+- 📺 [DeepLearning.AI — Building Generative AI Applications with Gradio](https://www.deeplearning.ai/short-courses/building-generative-ai-applications-with-gradio/) — free, ~1 hour, optional — useful if you want a UI for your builds
 
 ---
 

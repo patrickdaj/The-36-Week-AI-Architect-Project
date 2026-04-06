@@ -10,9 +10,9 @@
 
 ## Before You Start Block 18
 
-- Review everything you've built in Blocks 1–32
+- Review everything you've built in Blocks 1–17 — pick the 3-4 capabilities your capstone will combine
 - Pick your capstone project (see ideas below)
-- 📖 [Google — People + AI Guidebook](https://pair.withgoogle.com/) — designing AI products for humans
+- 📖 [Google PAIR — Guidebook Patterns](https://pair.withgoogle.com/guidebook/) — skim the "Mental Models" and "Explainability" chapters (~15 min), practical design patterns for AI products
 
 ---
 

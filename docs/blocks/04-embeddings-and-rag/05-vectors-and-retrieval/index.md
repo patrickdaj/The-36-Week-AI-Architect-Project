@@ -8,11 +8,13 @@
 
 ---
 
-## Before You Start Block 9
+## Before You Start Block 5
 
-- 📺 [3Blue1Brown — But what is a GPT?](https://www.youtube.com/watch?v=wjZofJX0v4M) — watch the embeddings section, visual intuition for "meaning as coordinates"
-- 📖 [Pinecone — What are Embeddings?](https://www.pinecone.io/learn/vector-embeddings/) — the best intuition-first explainer
-- 📺 [DeepLearning.AI — LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) — free, ~1 hour
+20 minutes of reading, plus an optional course:
+
+- 📖 [Pinecone — What are Embeddings?](https://www.pinecone.io/learn/vector-embeddings/) — 10-minute read, the best intuition-first explainer for vectors and similarity
+- 📺 [3Blue1Brown — But what is a GPT?](https://www.youtube.com/watch?v=wjZofJX0v4M) — skip to the embeddings visualization (~8 min mark), visual intuition for "meaning as coordinates"
+- 📺 [DeepLearning.AI — LangChain: Chat with Your Data](https://www.deeplearning.ai/short-courses/langchain-chat-with-your-data/) — free, ~1 hour, optional but solid if you want the full RAG walkthrough before building
 
 **Setup:**
 ```bash

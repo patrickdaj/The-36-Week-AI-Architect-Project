@@ -41,5 +41,5 @@ After the capstone, pick one to go deeper:
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [33–34: Design & Build](18-design-and-build/index.md) | Architecture design, system build, documentation | 33–34 |
-| [35–36: Ship & Present](19-ship-and-present/index.md) | Deployment, demo, presentation, retrospective | 35–36 |
+| [Block 18: Design & Build](18-design-and-build/index.md) | Architecture design, system build, documentation | 33–34 |
+| [Block 19: Ship & Present](19-ship-and-present/index.md) | Deployment, demo, presentation, retrospective | 35–36 |

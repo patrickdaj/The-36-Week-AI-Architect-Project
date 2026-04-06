@@ -8,10 +8,12 @@
 
 ---
 
-## Before You Start Block 7
+## Before You Start Block 4
 
-- 📖 [OpenAI — Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) — JSON mode and function calling
-- 📖 [Anthropic — Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) — Claude's approach to structured output
+10 minutes — read whichever matches your API choice:
+
+- 📖 [OpenAI — Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) — JSON mode and function calling, read the "Introduction" and "Examples" sections
+- 📖 [Anthropic — Tool Use](https://docs.anthropic.com/en/docs/build-with-claude/tool-use) — Claude's approach to structured output via tool definitions
 
 ---
 

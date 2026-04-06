@@ -10,9 +10,11 @@
 
 ## Before You Start Block 12
 
-- 📺 [Andrej Karpathy — Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) — 1 hour, the best overview of what LLMs are
-- 📺 [Andrej Karpathy — Let's build GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) — 2 hours, builds a transformer in Python. Watch it. You don't need to code along, but the intuition is invaluable.
-- 📖 [Ollama Documentation](https://github.com/ollama/ollama/blob/main/README.md)
+1 hour of video + install Ollama:
+
+- 📺 [Andrej Karpathy — Intro to Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) — 1 hour, the best overview of what LLMs actually are under the hood. Watch this one.
+- 📖 [Ollama Documentation](https://github.com/ollama/ollama/blob/main/README.md) — 5-minute skim, just the install and basic commands
+- 📺 *Optional deep dive:* [Andrej Karpathy — Let's build GPT from scratch](https://www.youtube.com/watch?v=kCc8FmEb1nY) — 2 hours, builds a transformer in Python. Great weekend watch, but not required to start this block.
 
 **Setup:**
 ```bash

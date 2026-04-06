@@ -8,12 +8,12 @@
 
 ---
 
-## Before You Start Block 3
+## Before You Start Block 2
 
-Read or skim these:
+Skim these — 20 minutes:
 
-- 📖 [Python Data Science Handbook — Chapter 3: Pandas](https://jakevdp.github.io/PythonDataScienceHandbook/03.00-introduction-to-pandas.html) — the single best free Pandas reference
-- 📖 [Real Python — Jupyter Notebook Tutorial](https://realpython.com/jupyter-notebook-introduction/) — if you haven't used Jupyter before
+- 📖 [Pandas Getting Started — 10 Minutes to Pandas](https://pandas.pydata.org/docs/user_guide/10min.html) — official quick-start, covers everything you need for Session 9. Bookmark the full User Guide for reference later.
+- 📖 [Real Python — Jupyter Notebook Tutorial](https://realpython.com/jupyter-notebook-introduction/) — skim if you haven't used Jupyter before, skip if you have
 
 **Setup:**
 ```bash

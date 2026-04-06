@@ -10,9 +10,11 @@
 
 ## Before You Start Block 16
 
-- 📖 [OWASP Top 10 for LLM Applications](https://owasp.org/www-project-top-10-for-large-language-model-applications/) — the definitive list
-- 📺 [Simon Willison — Prompt Injection Explained](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) — blog + talks
-- 📖 [NIST AI Risk Management Framework](https://www.nist.gov/artificial-intelligence/executive-order-safe-secure-and-trustworthy-artificial-intelligence) — governance reference
+30 minutes — this is your domain, so you'll move fast:
+
+- 📖 [OWASP Top 10 for LLM Applications](https://genai.owasp.org/resource/owasp-top-10-for-llm-applications-2025/) — the 2025 list, read the one-page summary table then drill into the 2-3 risks most relevant to your builds
+- 📖 [Simon Willison — Prompt Injection Explained](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) — 10-minute read, concrete examples of why this is the #1 LLM security risk
+- 📖 [NIST AI 100-1 — AI Risk Management Framework (PDF)](https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf) — skim the "Core" section (pages 15-25) for governance vocabulary. Don't read the whole thing.
 
 ---
 

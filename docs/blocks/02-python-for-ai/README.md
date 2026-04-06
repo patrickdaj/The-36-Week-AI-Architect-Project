@@ -27,4 +27,4 @@ This unit tunes your Python for the AI toolchain. By the end, you'll be fluent i
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [3–4: Data & Tooling](02-data-and-tooling/index.md) | Pandas, Jupyter, CLI tools, log analysis | 3–4 |
+| [Block 2: Data & Tooling](02-data-and-tooling/index.md) | Pandas, Jupyter, CLI tools, log analysis | 3–4 |

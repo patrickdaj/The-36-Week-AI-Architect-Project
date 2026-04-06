@@ -10,9 +10,11 @@
 
 ## Before You Start Block 8
 
-- 📖 [Anthropic — Building Effective Agents](https://docs.anthropic.com/en/docs/build-with-claude/agent-overview) — the best overview of agent patterns
-- 📖 [Lilian Weng — LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — the seminal blog post
-- 📺 [DeepLearning.AI — AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) — free, ~1 hour
+30 minutes of reading — these two pages define how the industry thinks about agents:
+
+- 📖 [Anthropic — Building Effective Agents](https://docs.anthropic.com/en/docs/build-with-claude/agent-overview) — 15-minute read, the clearest taxonomy of agent patterns (workflows vs. autonomous agents). Read this one fully.
+- 📖 [Lilian Weng — LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/) — 15 minutes, skim the "Agent System Overview" and "Tool Use" sections. Skip the math.
+- 📺 [DeepLearning.AI — AI Agents in LangGraph](https://www.deeplearning.ai/short-courses/ai-agents-in-langgraph/) — free, ~1 hour, optional — useful if you want a guided walkthrough before building your own
 
 **Setup:**
 ```bash

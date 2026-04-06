@@ -10,9 +10,10 @@
 
 ## Before You Start Block 14
 
-- 📺 [MLOps Zoomcamp — Model Deployment](https://github.com/DataTalksClub/mlops-zoomcamp) — free, practical
-- 📖 [Hugging Face — Evaluate Library](https://huggingface.co/docs/evaluate/) — standardized evaluation
-- 📖 [vLLM Documentation](https://docs.vllm.ai/) — high-throughput serving
+15 minutes of reading:
+
+- 📖 [Hugging Face — Evaluate Library Quickstart](https://huggingface.co/docs/evaluate/a_quick_tour) — single page, how to run standardized metrics against model outputs
+- 📖 [vLLM — Quickstart](https://docs.vllm.ai/en/latest/getting_started/quickstart.html) — single page, high-throughput LLM serving setup
 
 ---
 
