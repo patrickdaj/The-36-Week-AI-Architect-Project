@@ -13,7 +13,7 @@
 Skim these three — 30 minutes total, tops:
 
 - 📖 [Anthropic — Prompt Engineering Best Practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — 15-minute read, covers the full set of techniques (clarity, examples, CoT, role prompts). Read this one fully.
-- 📖 [OpenAI — Prompt Engineering Best Practices](https://platform.openai.com/docs/guides/prompt-engineering) — skim the six strategies list, you'll use each one this block
+- 📖 [Prompt Engineering Guide — Basics of Prompting](https://www.promptingguide.ai/introduction/basics) — 5-minute read, model-agnostic overview of prompt elements and general tips
 - 📺 [DeepLearning.AI — ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — free, ~1 hour, code-along in Jupyter (do this one on Day 1 if you want a warm-up)
 
 **Setup for the week:** Create your project repo and virtual environment:
@@ -51,7 +51,7 @@ Test it in ChatGPT, Claude, or Copilot Chat. Compare the quality of response wit
 
 > 📖 **Read:** [Anthropic — Give Claude a Role](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/give-claude-a-role) — how to define persona, expertise, and constraints — exactly what you're building
 >
-> 📖 **Read:** [OpenAI — GPT Best Practices: Write Clear Instructions](https://platform.openai.com/docs/guides/prompt-engineering#tactic-include-details-in-your-query-to-get-more-relevant-answers) — jump to the tactics list, compare their approach to Anthropic's
+> 📖 **Read:** [Prompt Engineering Guide — General Tips for Designing Prompts](https://www.promptingguide.ai/introduction/tips) — concise list of do's and don'ts, model-agnostic
 
 ---
 
