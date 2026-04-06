@@ -1,6 +1,6 @@
 site_name: The 36-Week AI Architect Project
 site_description: From blasting Copilot prompts to architecting AI systems — a free, build-first curriculum for engineers.
-site_url: ""
+site_url: https://patrickdaj.github.io/The-36-Week-AI-Architect-Project/
 
 theme:
   name: material
@@ -25,6 +25,9 @@ theme:
     - search.suggest
     - search.highlight
     - content.code.copy
+
+not_in_nav: |
+  progress/template-block.md
 
 plugins:
   - search

@@ -1,6 +1,6 @@
 # 🏠 Block 19: Ship & Present
 
-[← Block 18: Design & Build](../18-design-and-build/index.md) | [🏁 Back to Start](../../README.md)
+[← Block 18: Design & Build](../18-design-and-build/index.md) | [🏁 Back to Start](../../../README.md)
 
 > *"An architect doesn't just design buildings — they present them, defend them, and ship them. This is where you prove you can do all three."*
 
@@ -134,4 +134,4 @@ Now go build something that matters.
 
 ---
 
-[← Block 18: Design & Build](../18-design-and-build/index.md) | [🏁 Back to Start](../../README.md)
+[← Block 18: Design & Build](../18-design-and-build/index.md) | [🏁 Back to Start](../../../README.md)
