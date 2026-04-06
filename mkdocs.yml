@@ -1,0 +1,131 @@
+site_name: The 36-Week AI Architect Project
+site_description: From blasting Copilot prompts to architecting AI systems — a free, build-first curriculum for engineers.
+site_url: ""
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+    - scheme: default
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+
+plugins:
+  - search
+  - glightbox
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - tables
+  - attr_list
+  - md_in_html
+
+nav:
+  - Home: README.md
+  - How to Use: how-to-use.md
+  - Equipment Guide: equipment-guide.md
+  - Progress: progress/README.md
+
+  - "Unit 1 — Prompt Engineering":
+    - blocks/01-prompt-engineering/README.md
+    - "Block 01–02: Stop Wasting Tokens":
+      - blocks/01-prompt-engineering/01-02-stop-wasting-tokens/index.md
+      - blocks/01-prompt-engineering/01-02-stop-wasting-tokens/quick-ref.md
+
+  - "Unit 2 — Python for AI":
+    - blocks/02-python-for-ai/README.md
+    - "Block 03–04: Data & Tooling":
+      - blocks/02-python-for-ai/03-04-data-and-tooling/index.md
+      - blocks/02-python-for-ai/03-04-data-and-tooling/quick-ref.md
+
+  - "Unit 3 — LLM APIs":
+    - blocks/03-llm-apis/README.md
+    - "Block 05–06: First AI Apps":
+      - blocks/03-llm-apis/05-06-first-ai-apps/index.md
+      - blocks/03-llm-apis/05-06-first-ai-apps/quick-ref.md
+    - "Block 07–08: Structured Output":
+      - blocks/03-llm-apis/07-08-structured-output/index.md
+      - blocks/03-llm-apis/07-08-structured-output/quick-ref.md
+
+  - "Unit 4 — Embeddings & RAG":
+    - blocks/04-embeddings-and-rag/README.md
+    - "Block 09–10: Vectors & Retrieval":
+      - blocks/04-embeddings-and-rag/09-10-vectors-and-retrieval/index.md
+      - blocks/04-embeddings-and-rag/09-10-vectors-and-retrieval/quick-ref.md
+    - "Block 11–12: Advanced RAG":
+      - blocks/04-embeddings-and-rag/11-12-advanced-rag/index.md
+      - blocks/04-embeddings-and-rag/11-12-advanced-rag/quick-ref.md
+    - "Block 13: CVE Impact Analyzer":
+      - blocks/04-embeddings-and-rag/13-cve-impact-analyzer/index.md
+      - blocks/04-embeddings-and-rag/13-cve-impact-analyzer/quick-ref.md
+
+  - "Unit 5 — Agents":
+    - blocks/05-agents/README.md
+    - "Block 14–15: Tool Use & ReAct":
+      - blocks/05-agents/14-15-tool-use-and-react/index.md
+      - blocks/05-agents/14-15-tool-use-and-react/quick-ref.md
+    - "Block 16–17: Multi-Agent Systems":
+      - blocks/05-agents/16-17-multi-agent-systems/index.md
+      - blocks/05-agents/16-17-multi-agent-systems/quick-ref.md
+    - "Block 18–19: SOC Analyst Agent":
+      - blocks/05-agents/18-19-soc-analyst-agent/index.md
+      - blocks/05-agents/18-19-soc-analyst-agent/quick-ref.md
+    - "Block 20: Audit Swarm":
+      - blocks/05-agents/20-capstone-audit-swarm/index.md
+      - blocks/05-agents/20-capstone-audit-swarm/quick-ref.md
+
+  - "Unit 6 — Local Models":
+    - blocks/06-local-models/README.md
+    - "Block 21–22: Running Local":
+      - blocks/06-local-models/21-22-running-local/index.md
+      - blocks/06-local-models/21-22-running-local/quick-ref.md
+    - "Block 23–24: Fine-Tuning":
+      - blocks/06-local-models/23-24-fine-tuning/index.md
+      - blocks/06-local-models/23-24-fine-tuning/quick-ref.md
+    - "Block 25–26: Eval & Deploy":
+      - blocks/06-local-models/25-26-eval-and-deploy/index.md
+      - blocks/06-local-models/25-26-eval-and-deploy/quick-ref.md
+
+  - "Unit 7 — Production":
+    - blocks/07-production/README.md
+    - "Block 27–28: Architecture Patterns":
+      - blocks/07-production/27-28-architecture-patterns/index.md
+      - blocks/07-production/27-28-architecture-patterns/quick-ref.md
+    - "Block 29–30: Security & Guardrails":
+      - blocks/07-production/29-30-security-and-guardrails/index.md
+      - blocks/07-production/29-30-security-and-guardrails/quick-ref.md
+    - "Block 31–32: Platform Build":
+      - blocks/07-production/31-32-platform-build/index.md
+      - blocks/07-production/31-32-platform-build/quick-ref.md
+
+  - "Unit 8 — Capstone":
+    - blocks/08-capstone/README.md
+    - "Block 33–34: Design & Build":
+      - blocks/08-capstone/33-34-design-and-build/index.md
+      - blocks/08-capstone/33-34-design-and-build/quick-ref.md
+    - "Block 35–36: Ship & Present":
+      - blocks/08-capstone/35-36-ship-and-present/index.md
+      - blocks/08-capstone/35-36-ship-and-present/quick-ref.md

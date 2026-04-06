@@ -1,0 +1,32 @@
+# MkDocs build output
+site/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project artifacts (student builds — don't track generated code)
+# Uncomment these if you want to keep your builds out of git:
+# training-data/
+# fine-tune/
+# platform/
+# security/
+# capstone/src/
+# serve/
+
+# Secrets
+.env
+*.key
+*.pem
