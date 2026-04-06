@@ -49,7 +49,7 @@ Test it in ChatGPT, Claude, or Copilot Chat. Compare the quality of response wit
 | Build | `system-prompts/network-troubleshooter.md` |
 | Test | Same network problem with and without system prompt — screenshot both |
 
-> 📖 **Read:** [Anthropic — System Prompts](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts) — why system prompts work and how to structure them
+> 📖 **Read:** [Anthropic — Give Claude a Role](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/give-claude-a-role) — how to define persona, expertise, and constraints — exactly what you're building
 >
 > 📖 **Read:** [OpenAI — GPT Best Practices: Write Clear Instructions](https://platform.openai.com/docs/guides/prompt-engineering#tactic-include-details-in-your-query-to-get-more-relevant-answers) — jump to the tactics list, compare their approach to Anthropic's
 

@@ -8,7 +8,7 @@
 
 | Session | Build | Skill | Key Resource |
 |---------|-------|-------|-------------|
-| **Session 1** | `system-prompts/network-troubleshooter.md` | System prompts | [Anthropic — System Prompts](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts) |
+| **Session 1** | `system-prompts/network-troubleshooter.md` | System prompts | [Anthropic — Give Claude a Role](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/give-claude-a-role) |
 | **Session 2** | `system-prompts/security-advisory-writer.md` | Few-shot prompting | [Prompting Guide — Few-Shot](https://www.promptingguide.ai/techniques/fewshot) |
 | **Session 3** | `system-prompts/incident-analyzer.md` | Chain-of-thought | [Prompting Guide — CoT](https://www.promptingguide.ai/techniques/cot) |
 | **Session 4** | `tools/token-counter.py` | Token counting & cost estimation | [OpenAI Tokenizer](https://platform.openai.com/tokenizer) |
