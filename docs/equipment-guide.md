@@ -39,27 +39,27 @@ Install these before Block 1. Everything else gets installed per-block.
 
 Set these up before you need them. Creating accounts mid-session kills flow.
 
-### Block 1–2 (Prompt Engineering)
+### Block 1 (Prompt Engineering)
 - None needed — you're working locally
 
-### Block 5–8 (LLM APIs)
+### Blocks 3–4 (LLM APIs)
 - [ ] [Google AI Studio](https://aistudio.google.com/) — free Gemini API with generous limits
 - [ ] [OpenAI Platform](https://platform.openai.com/) — free $5 credit for new accounts (verify current offer)
 - [ ] [Anthropic Console](https://console.anthropic.com/) — free credits for new accounts (verify current offer)
 
-### Block 9–13 (RAG)
+### Blocks 5–7 (RAG)
 - [ ] [Hugging Face](https://huggingface.co/) — free account for models and datasets
 - [ ] [NVD API](https://nvd.nist.gov/developers/request-an-api-key) — free API key for CVE data
 
-### Block 14–20 (Agents)
+### Blocks 8–11 (Agents)
 - [ ] [VirusTotal](https://www.virustotal.com/) — free API key (4 requests/min)
 - [ ] [AbuseIPDB](https://www.abuseipdb.com/) — free API key (1000 checks/day)
 
-### Block 21–26 (Local Models)
+### Blocks 12–14 (Local Models)
 - [ ] [Ollama](https://ollama.com/) — installed locally, no account needed
 - [ ] [Google Colab](https://colab.research.google.com/) — free tier with GPU access for fine-tuning
 
-### Block 27–32 (Production)
+### Blocks 15–17 (Production)
 - [ ] [Docker Desktop](https://www.docker.com/products/docker-desktop/) — free for personal use
 
 ---

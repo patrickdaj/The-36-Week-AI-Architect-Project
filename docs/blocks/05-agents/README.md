@@ -2,7 +2,7 @@
 
 <small>Weeks 14–20 · 4 blocks</small>
 
-[→ Start Block 14–15](14-15-tool-use-and-react/index.md)
+[→ Start Block 8](08-tool-use-and-react/index.md)
 
 ---
 
@@ -28,7 +28,7 @@ This unit takes you from tool calling to multi-agent swarms. You'll build a SOC 
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [14–15: Tool Use & ReAct](14-15-tool-use-and-react/index.md) | Function calling, tool definitions, ReAct pattern | 14–15 |
-| [16–17: Multi-Agent Systems](16-17-multi-agent-systems/index.md) | LangGraph, CrewAI, agent communication, state machines | 16–17 |
-| [18–19: SOC Analyst Agent](18-19-soc-analyst-agent/index.md) | 🔬 Lab — full SOC agent with threat intel and human-in-the-loop | 18–19 |
-| [20: Audit Swarm Capstone](20-capstone-audit-swarm/index.md) | 🔬 Lab — multi-agent infrastructure audit system | 20 |
+| [14–15: Tool Use & ReAct](08-tool-use-and-react/index.md) | Function calling, tool definitions, ReAct pattern | 14–15 |
+| [16–17: Multi-Agent Systems](09-multi-agent-systems/index.md) | LangGraph, CrewAI, agent communication, state machines | 16–17 |
+| [18–19: SOC Analyst Agent](10-soc-analyst-agent/index.md) | 🔬 Lab — full SOC agent with threat intel and human-in-the-loop | 18–19 |
+| [20: Audit Swarm Capstone](11-audit-swarm/index.md) | 🔬 Lab — multi-agent infrastructure audit system | 20 |

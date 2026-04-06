@@ -2,7 +2,7 @@
 
 <small>Weeks 5–8 · 2 blocks</small>
 
-[→ Start Block 5–6](05-06-first-ai-apps/index.md)
+[→ Start Block 3](03-first-ai-apps/index.md)
 
 ---
 
@@ -27,5 +27,5 @@ This is where "using AI" becomes "building with AI." By the end of this unit, yo
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [5–6: Your First AI Apps](05-06-first-ai-apps/index.md) | API calls, streaming, error handling, network troubleshooter | 5–6 |
-| [7–8: Structured Output & Cost Control](07-08-structured-output/index.md) | JSON mode, function calling, cost tracking, advisory summarizer | 7–8 |
+| [5–6: Your First AI Apps](03-first-ai-apps/index.md) | API calls, streaming, error handling, network troubleshooter | 5–6 |
+| [7–8: Structured Output & Cost Control](04-structured-output/index.md) | JSON mode, function calling, cost tracking, advisory summarizer | 7–8 |

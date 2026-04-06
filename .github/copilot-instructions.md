@@ -1,7 +1,7 @@
 # The 36-Week AI Architect Project — Copilot Instructions
 
 ## Project Context
-This is a self-paced AI learning curriculum for a network/security engineer progressing from prompt engineering to AI architecture. The curriculum is structured as an MkDocs site with 8 units, 18 blocks, and 75 sessions.
+This is a self-paced AI learning curriculum for a network/security engineer progressing from prompt engineering to AI architecture. The curriculum is structured as an MkDocs site with 8 units, 19 blocks, and 75 sessions.
 
 ## Curriculum Structure
 - **docs/blocks/{unit}/{block}/index.md** — Full session guides with skills, builds, and resources
@@ -14,7 +14,7 @@ This is a self-paced AI learning curriculum for a network/security engineer prog
 - Focus on **building**, not reading — every session produces a working tool or file
 - Security domain examples preferred (network traffic, CVEs, SIEM, configs)
 - Minimal math — explain concepts through code and analogies
-- Session types: 💻 Session (skill+build), 🔬 Lab (multi-session), ⏰ Service (deploy/demo)
+- Session types: 💻 Session (skill+build), 🔬 Lab (multi-session), ⏰ Project (deploy/demo)
 
 ## When Helping with Student Code
 - The student is building AI tools in Python

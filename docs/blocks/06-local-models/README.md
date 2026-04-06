@@ -2,7 +2,7 @@
 
 <small>Weeks 21–26 · 3 blocks</small>
 
-[→ Start Block 21–22](21-22-running-local/index.md)
+[→ Start Block 12](12-running-local/index.md)
 
 ---
 
@@ -28,6 +28,6 @@ This unit takes you from "download a model" to "fine-tune a domain-specific mode
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [21–22: Running Local](21-22-running-local/index.md) | Ollama setup, model comparison, API compatibility | 21–22 |
-| [23–24: Fine-Tuning](23-24-fine-tuning/index.md) | Dataset creation, QLoRA with Unsloth, training on Colab | 23–24 |
-| [25–26: Eval & Deploy](25-26-eval-and-deploy/index.md) | Evaluation metrics, model serving, local API deployment | 25–26 |
+| [21–22: Running Local](12-running-local/index.md) | Ollama setup, model comparison, API compatibility | 21–22 |
+| [23–24: Fine-Tuning](13-fine-tuning/index.md) | Dataset creation, QLoRA with Unsloth, training on Colab | 23–24 |
+| [25–26: Eval & Deploy](14-eval-and-deploy/index.md) | Evaluation metrics, model serving, local API deployment | 25–26 |

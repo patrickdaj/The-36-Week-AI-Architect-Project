@@ -2,7 +2,7 @@
 
 <small>Weeks 33–36 · 2 blocks</small>
 
-[→ Start Block 33–34](33-34-design-and-build/index.md)
+[→ Start Block 18](18-design-and-build/index.md)
 
 ---
 
@@ -41,5 +41,5 @@ After the capstone, pick one to go deeper:
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [33–34: Design & Build](33-34-design-and-build/index.md) | Architecture design, system build, documentation | 33–34 |
-| [35–36: Ship & Present](35-36-ship-and-present/index.md) | Deployment, demo, presentation, retrospective | 35–36 |
+| [33–34: Design & Build](18-design-and-build/index.md) | Architecture design, system build, documentation | 33–34 |
+| [35–36: Ship & Present](19-ship-and-present/index.md) | Deployment, demo, presentation, retrospective | 35–36 |

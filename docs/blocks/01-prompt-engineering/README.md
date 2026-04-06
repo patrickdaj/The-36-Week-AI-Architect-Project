@@ -2,7 +2,7 @@
 
 <small>Weeks 1–2 · 1 block</small>
 
-[→ Start Block 1–2](01-02-stop-wasting-tokens/index.md)
+[→ Start Block 1](01-stop-wasting-tokens/index.md)
 
 ---
 
@@ -27,4 +27,4 @@ This unit fixes that. You'll go from "spray tokens and hope" to writing prompts 
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [1–2: Stop Wasting Tokens](01-02-stop-wasting-tokens/index.md) | Prompt engineering, context windows, structured output | 1–2 |
+| [1–2: Stop Wasting Tokens](01-stop-wasting-tokens/index.md) | Prompt engineering, context windows, structured output | 1–2 |

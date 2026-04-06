@@ -2,7 +2,7 @@
 
 <small>Weeks 9–13 · 3 blocks</small>
 
-[→ Start Block 9–10](09-10-vectors-and-retrieval/index.md)
+[→ Start Block 5](05-vectors-and-retrieval/index.md)
 
 ---
 
@@ -27,6 +27,6 @@ This unit takes you from "what's an embedding?" to building a production-grade R
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [9–10: Vectors & Retrieval](09-10-vectors-and-retrieval/index.md) | Embeddings, ChromaDB, basic RAG pipeline | 9–10 |
-| [11–12: Advanced RAG](11-12-advanced-rag/index.md) | Hybrid search, reranking, chunking strategies, source citation | 11–12 |
-| [13: CVE Impact Analyzer](13-cve-impact-analyzer/index.md) | 🔬 Lab — RAG over asset inventory + NVD data | 13 |
+| [9–10: Vectors & Retrieval](05-vectors-and-retrieval/index.md) | Embeddings, ChromaDB, basic RAG pipeline | 9–10 |
+| [11–12: Advanced RAG](06-advanced-rag/index.md) | Hybrid search, reranking, chunking strategies, source citation | 11–12 |
+| [13: CVE Impact Analyzer](07-cve-impact-analyzer/index.md) | 🔬 Lab — RAG over asset inventory + NVD data | 13 |

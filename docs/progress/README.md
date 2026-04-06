@@ -10,59 +10,64 @@ Use this page to track your journey through the 36 weeks. Update the status afte
 
 ---
 
-## Unit 1: Prompt Engineering (Weeks 1–4)
+## Unit 1: Prompt Engineering (Weeks 1–2)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 01–02 | Stop Wasting Tokens | ⬜ | | | |
-| 03–04 | Data & Tooling | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 1 | Stop Wasting Tokens | 2 | ⬜ | | | |
 
-## Unit 2: Python for AI (Weeks 5–8)
+## Unit 2: Python for AI (Weeks 3–4)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 05–06 | First AI Apps | ⬜ | | | |
-| 07–08 | Structured Output & Cost | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 2 | Data & Tooling | 2 | ⬜ | | | |
 
-## Unit 3: Embeddings & RAG (Weeks 9–14)
+## Unit 3: LLM APIs (Weeks 5–8)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 09–10 | Vectors & Retrieval | ⬜ | | | |
-| 11–12 | Advanced RAG | ⬜ | | | |
-| 13 | CVE Impact Analyzer (Lab) | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 3 | First AI Apps | 2 | ⬜ | | | |
+| 4 | Structured Output & Cost | 2 | ⬜ | | | |
 
-## Unit 4: Agents (Weeks 15–22)
+## Unit 4: Embeddings & RAG (Weeks 9–13)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 14–15 | Tool Use & ReAct | ⬜ | | | |
-| 16–17 | Multi-Agent Systems | ⬜ | | | |
-| 18–19 | SOC Analyst Agent (Lab) | ⬜ | | | |
-| 20 | Audit Swarm (Capstone) | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 5 | Vectors & Retrieval | 2 | ⬜ | | | |
+| 6 | Advanced RAG | 2 | ⬜ | | | |
+| 7 | CVE Impact Analyzer (Lab) | 1 | ⬜ | | | |
 
-## Unit 5: Local Models (Weeks 23–28)
+## Unit 5: Agents (Weeks 14–20)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 21–22 | Running Local | ⬜ | | | |
-| 23–24 | Fine-Tuning | ⬜ | | | |
-| 25–26 | Eval & Deploy | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 8 | Tool Use & ReAct | 2 | ⬜ | | | |
+| 9 | Multi-Agent Systems | 2 | ⬜ | | | |
+| 10 | SOC Analyst Agent (Lab) | 2 | ⬜ | | | |
+| 11 | Audit Swarm (Capstone) | 1 | ⬜ | | | |
 
-## Unit 6: Production (Weeks 29–34)
+## Unit 6: Local Models (Weeks 21–26)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 27–28 | Architecture Patterns | ⬜ | | | |
-| 29–30 | Security & Guardrails | ⬜ | | | |
-| 31–32 | Platform Build (Lab) | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 12 | Running Local | 2 | ⬜ | | | |
+| 13 | Fine-Tuning | 2 | ⬜ | | | |
+| 14 | Eval & Deploy | 2 | ⬜ | | | |
 
-## Unit 7: Capstone (Weeks 35–36)
+## Unit 7: Production (Weeks 27–32)
 
-| Block | Topic | Status | Started | Completed | Notes |
-|-------|-------|--------|---------|-----------|-------|
-| 33–34 | Design & Build | ⬜ | | | |
-| 35–36 | Ship & Present | ⬜ | | | |
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 15 | Architecture Patterns | 2 | ⬜ | | | |
+| 16 | Security & Guardrails | 2 | ⬜ | | | |
+| 17 | Platform Build (Lab) | 2 | ⬜ | | | |
+
+## Unit 8: Capstone (Weeks 33–36)
+
+| Block | Topic | Weeks | Status | Started | Completed | Notes |
+|-------|-------|-------|--------|---------|-----------|-------|
+| 18 | Design & Build | 2 | ⬜ | | | |
+| 19 | Ship & Present | 2 | ⬜ | | | |
 
 ---
 

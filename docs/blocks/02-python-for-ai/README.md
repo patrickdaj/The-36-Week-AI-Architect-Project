@@ -2,7 +2,7 @@
 
 <small>Weeks 3–4 · 1 block</small>
 
-[→ Start Block 3–4](03-04-data-and-tooling/index.md)
+[→ Start Block 2](02-data-and-tooling/index.md)
 
 ---
 
@@ -27,4 +27,4 @@ This unit tunes your Python for the AI toolchain. By the end, you'll be fluent i
 
 | Block | Topic | Weeks |
 |-------|-------|-------|
-| [3–4: Data & Tooling](03-04-data-and-tooling/index.md) | Pandas, Jupyter, CLI tools, log analysis | 3–4 |
+| [3–4: Data & Tooling](02-data-and-tooling/index.md) | Pandas, Jupyter, CLI tools, log analysis | 3–4 |

@@ -58,7 +58,7 @@ The full guide is where you understand the session. The quick ref is where you e
 
 ---
 
-## Sessions, Labs, and Services
+## Sessions, Labs, and Projects
 
 The curriculum has three types of hands-on work:
 
@@ -68,8 +68,8 @@ A focused skill + build. You learn one concept, build a small tool or component 
 ### 🔬 Lab
 A multi-session project that combines several skills into a larger build. Labs span 1–2 weeks and produce a substantial, portfolio-worthy tool. The SOC Analyst Agent and the Production Platform are labs.
 
-### ⏰ Service
-Borrowed from the culinary project — a "service" is when you deploy or demo what you've built under real-ish conditions. Show it to a colleague. Use it for actual work. Write up findings. The point is forcing your tools out of the "it works on my machine" bubble.
+### ⏰ Project
+A deliverable. You deploy or demo what you've built under real-ish conditions. Show it to a colleague. Use it for actual work. Write up findings. The point is forcing your tools out of the "it works on my machine" bubble.
 
 ---
 
