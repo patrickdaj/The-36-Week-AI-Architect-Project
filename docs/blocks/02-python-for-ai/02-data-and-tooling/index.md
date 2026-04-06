@@ -26,7 +26,7 @@ pip install pandas numpy matplotlib jupyterlab
 
 ---
 
-## Block 3 — Learn to See Your Data
+## Week 1 — Learn to See Your Data
 
 ### Session 9: DataFrames Are Your New Best Friend
 

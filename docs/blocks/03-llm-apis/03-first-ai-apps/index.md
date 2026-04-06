@@ -27,7 +27,7 @@ pip install google-genai openai anthropic httpx rich
 
 ---
 
-## Block 5 — Make the API Do Real Work
+## Week 1 — Make the API Do Real Work
 
 ### Session 13: Your First API Call
 

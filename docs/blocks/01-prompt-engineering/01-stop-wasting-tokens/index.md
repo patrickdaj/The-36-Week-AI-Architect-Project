@@ -30,7 +30,7 @@ pip install jupyter
 
 ---
 
-## Block 1 — Your Prompts Are Expensive and Vague (Fix Both)
+## Week 1 — Your Prompts Are Expensive and Vague (Fix Both)
 
 ### Session 1: The System Prompt
 
@@ -136,7 +136,7 @@ Write up your findings in `reports/prompt-audit-week-1.md`.
 
 ---
 
-## Block 2 — From Artisanal Prompts to Reusable Infrastructure
+## Week 2 — From Artisanal Prompts to Reusable Infrastructure
 
 ### Session 5: Structured Output (JSON Mode)
 

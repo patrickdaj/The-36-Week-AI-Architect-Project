@@ -25,7 +25,7 @@ pip install chromadb langchain langchain-community sentence-transformers
 
 ---
 
-## Block 9 — Teach AI to Know Your Things
+## Week 1 — Teach AI to Know Your Things
 
 ### Session 21: What Are Embeddings?
 

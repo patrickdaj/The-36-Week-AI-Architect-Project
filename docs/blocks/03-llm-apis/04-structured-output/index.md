@@ -17,7 +17,7 @@
 
 ---
 
-## Block 7 — Make AI Output Machine-Readable
+## Week 1 — Make AI Output Machine-Readable
 
 ### Session 17: JSON Mode and Schema Enforcement
 
