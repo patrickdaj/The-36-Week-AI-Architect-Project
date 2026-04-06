@@ -264,7 +264,26 @@ Test it against every system prompt you've written in this block.
 2. Write a README that explains your prompt library to a colleague
 3. Use your config-reviewer tool on a real (or realistic) config file and include the output
 4. Run your injection tester against your best prompts and document the results
-5. Commit everything. Push to GitHub.
+5. Add AI coding assistant instruction files to your repo (see box below)
+6. Commit everything. Push to GitHub.
+
+!!! tip "Bonus: Repo-Scoped System Prompts for AI Coding Assistants"
+
+    The system prompts you practiced in Session 1 aren't just for chatbots — they're exactly how you configure AI coding assistants to understand your project. Most tools read a markdown file from your repo:
+
+    | Tool | File | Location |
+    |------|------|----------|
+    | GitHub Copilot | `copilot-instructions.md` | `.github/copilot-instructions.md` |
+    | Claude Code | `CLAUDE.md` | repo root |
+    | Multi-agent (emerging standard) | `AGENTS.md` | repo root |
+
+    **What to include:** project summary, language/framework, directory layout, build & test commands, coding conventions, and any "always do / never do" rules. These files are injected into the context window at session start — the same token budget from Session 4 applies. Keep them under 200 lines; verbose instructions waste tokens on every single interaction.
+
+    Create at least one of these for your prompt library repo. You already have the skills — this is a system prompt scoped to a repository instead of a conversation.
+
+    > 📖 **Read:** [GitHub — Adding Repository Custom Instructions for Copilot](https://docs.github.com/en/copilot/customizing-copilot/adding-repository-custom-instructions-for-github-copilot) — how `copilot-instructions.md`, `AGENTS.md`, and path-specific `.instructions.md` files work (~10 min)
+    >
+    > 📖 **Read:** [Claude Code — How Claude Remembers Your Project](https://code.claude.com/docs/en/memory) — `CLAUDE.md` file placement, writing effective instructions, and the 200-line guideline (~10 min)
 
 This is your first portfolio piece. By Week 2, you should have:
 - A documented prompt library with 6+ templates
@@ -273,6 +292,7 @@ This is your first portfolio piece. By Week 2, you should have:
 - A prompt A/B tester
 - A prompt injection test suite
 - A written prompt audit of your real workflow
+- At least one AI coding assistant instruction file
 
 ---
 
