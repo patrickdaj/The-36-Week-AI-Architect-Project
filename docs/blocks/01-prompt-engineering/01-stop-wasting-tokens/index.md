@@ -10,10 +10,9 @@
 
 ## Before You Start Block 1
 
-Skim these three — 30 minutes total, tops:
+Skim these — 30 minutes total, tops:
 
 - 📖 [Anthropic — Prompt Engineering Best Practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — 15-minute read, covers the full set of techniques (clarity, examples, CoT, role prompts). Read this one fully.
-- 📖 [Prompt Engineering Guide — Basics of Prompting](https://www.promptingguide.ai/introduction/basics) — 5-minute read, model-agnostic overview of prompt elements and general tips
 - 📺 [DeepLearning.AI — ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — free, ~1 hour, code-along in Jupyter (do this one on Day 1 if you want a warm-up)
 
 **Setup for the week:** Create your project repo and virtual environment:
