@@ -4,7 +4,7 @@
 
 ---
 
-## Block 1 — Sessions 1–4
+## Week 1 — Sessions 1–4
 
 | Session | Build | Skill | Key Resource |
 |---------|-------|-------|-------------|
@@ -16,13 +16,13 @@
 
 ---
 
-## Block 2 — Sessions 5–8
+## Week 2 — Sessions 5–8
 
 | Session | Build | Skill | Key Resource |
 |---------|-------|-------|-------------|
 | **Session 5** | `tools/config-reviewer.py` | Structured output (JSON mode) | [OpenAI — Structured Outputs](https://platform.openai.com/docs/guides/structured-outputs) |
 | **Session 6** | `tools/prompt-ab-tester.py` | Temperature, top-p, generation params | [Prompting Guide — Settings](https://www.promptingguide.ai/introduction/settings) |
-| **Session 7** | `prompt-library/` (6 templates + renderer) | Prompt templates & variables | [LangChain — Prompt Templates](https://python.langchain.com/docs/concepts/prompt_templates/) |
+| **Session 7** | `prompt-library/` (6 templates + renderer) | Prompt templates & variables | [Python — Template Strings](https://docs.python.org/3/library/string.html#template-strings) |
 | **Session 8** | `tools/injection-tester.py` | Prompt injection & defense | [OWASP — Prompt Injection](https://genai.owasp.org/llmrisk/llm01-prompt-injection/) |
 | **Service 2** | Ship prompt library to GitHub | Package & document | — |
 

@@ -51,7 +51,7 @@ Test it in ChatGPT, Claude, or Copilot Chat. Compare the quality of response wit
 
 > 📖 **Read:** [Anthropic — System Prompts](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/system-prompts) — why system prompts work and how to structure them
 >
-> 📖 **Read:** [OpenAI — Prompt Engineering Best Practices](https://platform.openai.com/docs/guides/prompt-engineering) — their version of the same concept, compare approaches
+> 📖 **Read:** [OpenAI — GPT Best Practices: Write Clear Instructions](https://platform.openai.com/docs/guides/prompt-engineering#tactic-include-details-in-your-query-to-get-more-relevant-answers) — jump to the tactics list, compare their approach to Anthropic's
 
 ---
 
@@ -225,7 +225,7 @@ Build `render.py` to load a template, substitute variables, and optionally count
 | Build | `prompt-library/` with 6 templates + renderer |
 | Test | Render each template with realistic data |
 
-> 📖 **Read:** [LangChain — Prompt Templates](https://python.langchain.com/docs/concepts/prompt_templates/) — how the ecosystem handles this (you don't need LangChain yet, just see the pattern)
+> 📖 **Read:** [Python Docs — Template Strings](https://docs.python.org/3/library/string.html#template-strings) — the stdlib approach you'll use in `render.py`. Simple, no dependencies.
 
 ---
 
@@ -253,7 +253,7 @@ Test it against every system prompt you've written in this block.
 >
 > 📖 **Read:** [Simon Willison — Prompt Injection Attacks](https://simonwillison.net/2023/Apr/14/worst-that-can-happen/) — the best overview of the problem space
 >
-> 🎥 **Compare Notes:** [OWASP — Prompt Injection Explained](https://www.youtube.com/watch?v=jF789v6Cqsk) — visual walkthrough of attack vectors
+> 📖 **Read:** [Prompt Engineering Guide — Adversarial Prompting](https://www.promptingguide.ai/risks/adversarial) — injection, leaking, and jailbreaking techniques with examples
 
 ---
 
