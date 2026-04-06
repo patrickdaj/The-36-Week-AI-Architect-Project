@@ -26,9 +26,6 @@ theme:
     - search.highlight
     - content.code.copy
 
-not_in_nav: |
-  progress/template-block.md
-
 plugins:
   - search
   - glightbox
@@ -50,7 +47,6 @@ nav:
   - Home: README.md
   - How to Use: how-to-use.md
   - Equipment Guide: equipment-guide.md
-  - Progress: progress/README.md
 
   - "Unit 1 — Prompt Engineering":
     - blocks/01-prompt-engineering/README.md

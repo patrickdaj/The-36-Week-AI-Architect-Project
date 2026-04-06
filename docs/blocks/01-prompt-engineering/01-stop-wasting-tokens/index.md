@@ -12,7 +12,7 @@
 
 Skim these three — 30 minutes total, tops:
 
-- 📖 [Anthropic — Be Clear and Direct](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/be-clear-and-direct) — 5-minute read, the single most useful prompting page on the internet. Read this one fully.
+- 📖 [Anthropic — Prompt Engineering Best Practices](https://docs.anthropic.com/en/docs/build-with-claude/prompt-engineering/overview) — 15-minute read, covers the full set of techniques (clarity, examples, CoT, role prompts). Read this one fully.
 - 📖 [OpenAI — Prompt Engineering Best Practices](https://platform.openai.com/docs/guides/prompt-engineering) — skim the six strategies list, you'll use each one this block
 - 📺 [DeepLearning.AI — ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) — free, ~1 hour, code-along in Jupyter (do this one on Day 1 if you want a warm-up)
 
